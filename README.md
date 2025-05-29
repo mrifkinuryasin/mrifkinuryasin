@@ -1,89 +1,62 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Johan%20Maulana-Exploring%20Cyber%20&%20Tech-0A66C2?style=for-the-badge&logo=github" />
-</p>
+# Hi there, I'm Muhammad Rifki Nuryasin 👋
 
-<h1 align="center">✨ Hello, I'm Johan Maulana ✨</h1>
-<h3 align="center">Red Teamer | Developer | Creator</h3>
-
-<p align="center">
-  <a href="https://johanz.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Click%20Here-black?style=flat&logo=vercel" />
-  </a>
-  <a href="mailto:johansendup@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-johansendup@gmail.com-EA4335?style=flat&logo=gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=johanmaulana&label=Profile+Views&color=lightgray&style=flat" alt="Profile views" />
-</p>
+Welcome to my GitHub profile!
 
 ---
 
-## 🧩 Who Am I?
+## About Me
 
-Hi, I’m **Johan**, a passionate Computer Engineering student with interests in:
+I'm a passionate **Computer Engineering** student currently in my final semester, eager to develop innovative software solutions and explore the world of embedded systems and IoT.  
+I love coding, learning new technologies, and building projects that solve real-world problems — especially in the realm of smart systems and data visualization.
 
-- 🔓 **Cybersecurity & Ethical Hacking**
-- 💻 **Web & Mobile App Development**
-- 📡 **IoT Systems & Embedded Tech**
-- 🎨 **UI/UX and Creative Design**
-
-I love building real-world tech, learning by doing, and sharing my journey with the community.
-
----
-
-## 🚧 Current Focus
-
-- 🛠 Building a **real-time IoT dashboard** with Flutter & MQTT
-- 🔍 Exploring **penetration testing, OSINT & cyber defense**
-- 🌐 Launching my **interactive portfolio website**
-- 🎥 Planning tech content for **YouTube** *(coming soon!)*
+- 🎓 **Student of Computer Engineering**  
+- 💻 Skilled in **Flutter, MQTT, Embedded Systems (ESP32), Python, and React**  
+- 🔧 Experienced in developing **IoT dashboards** and **mobile apps** for smart pond monitoring  
+- 🌱 Currently diving deeper into **Cyber Security** and **Software Architecture**  
+- 📫 Reach me via [email](mailto:rifki.nuryasin@example.com) or [LinkedIn](https://linkedin.com/in/rifkinuryasin)
 
 ---
 
-## 🧰 Tech Toolbox
+## What I Do
 
-| Area | Tools |
-|------|-------|
-| **Languages** | `Python`, `JavaScript`, `C++`, `Dart`, `PHP` |
-| **Frameworks** | `React`, `Flutter`, `Node.js`, `Laravel` |
-| **Dev Tools** | `VSCode`, `Git`, `Postman`, `Docker`, `Figma` |
-| **IoT / Embedded** | `ESP32`, `Arduino`, `MQTT`, `Blynk` |
-| **Cyber Tools** | `Burp Suite`, `Wireshark`, `Nmap`, `Kali Linux` |
+- Build smart IoT systems using ESP32 and sensor integration  
+- Develop cross-platform mobile apps with Flutter for real-time data monitoring  
+- Create interactive dashboards and data visualization tools  
+- Write clean, maintainable code with a focus on usability and performance  
+- Explore cybersecurity standards and best practices
 
 ---
 
-## 📊 My GitHub at a Glance
+## Skills & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johanmaulana&show_icons=true&theme=tokyonight&hide=prs" width="46%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johanmaulana&theme=tokyonight" width="46%" />
-</p>
-
----
-
-## 🧭 Words I Live By
-
-> “Belajar bukan tentang siapa yang paling cepat, tapi siapa yang terus bertahan.”  
-> — *Johan Maulana*
+| Programming Languages | Frameworks & Libraries | Tools & Platforms  |
+|-----------------------|------------------------|-------------------|
+| Python                | Flutter                | Git & GitHub      |
+| JavaScript / TypeScript| React                  | MQTT              |
+| C / C++               | ESP-IDF                | Linux / Kali Linux|
+| SQL                   | REST API               | VS Code           |
 
 ---
 
-## 📬 Let’s Connect
+## Projects Highlights
 
-- 🌐 Portfolio: [johanz.vercel.app](https://johanz.vercel.app)
-- 📧 Email: [johansendup@gmail.com](mailto:johansendup@gmail.com)
-- 🐦 Twitter/X: *(coming soon)*
-- 💼 LinkedIn: *(coming soon)*
-
----
-
-## 📄 License
-
-© 2025 Johan Maulana.  
-All content is protected — please do not copy without permission.
+- **Smart Pond Dashboard** — IoT system with ESP32, sensors, and Flutter app for live monitoring of water parameters.  
+- **Portfolio Website** — Responsive React website showcasing my projects and certificates.  
+- **Cyber Security Analysis** — Research and documentation on ISO/IEC 27001 standards.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Thanks+for+visiting!;Let’s+collaborate+and+build+awesome+things!" />
-</p>
+## GitHub Stats
+
+![Muhammad Rifki's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifkinuryasin&show_icons=true&theme=radical)
+
+---
+
+Thank you for stopping by! Feel free to connect or check out my projects.
+
+🚀 Let's build the future together!
+
+---
+
+*Last updated: 2025-05-29*
+
