@@ -13,7 +13,7 @@ I love coding, learning new technologies, and building projects that solve real-
 - 💻 Skilled in **Flutter, MQTT, Embedded Systems (ESP32), Python, and React**  
 - 🔧 Experienced in developing **IoT dashboards** and **mobile apps** for smart pond monitoring  
 - 🌱 Currently diving deeper into **Cyber Security** and **Software Architecture**  
-- 📫 Reach me via [email](mailto:kikokhatake1976@gmail.com) or [LinkedIn](https://linkedin.com/in/rifkinuryasin)
+- 📫 Reach me via [email](mailto:kikokhatake1976@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhammad-rifki-nuryasin-75272a24a/)
 
 ---
 
